@@ -72,7 +72,8 @@ document.addEventListener('DOMContentLoaded', function() {
             name: "Compañera Mildre Abaunza",
            img :"img/Ma.jpg",
             description: "Nace El 9 de Enero de 1951.  guerrillera urbana, era originaria de Bonanza, en el Triángulo Minero. ",
-            status: "MILITANTE GUERRILLERA : paso a la inmortalidad El 4 de Febrero de 1976, en la Colonia Centroamerica ciudad de Managua. },
+            status: "MILITANTE GUERRILLERA : paso a la inmortalidad El 4 de Febrero de 1976, en la Colonia Centroamerica ciudad de Managua."
+                },
         {
             id: 10,
             name: "Compañera Arlen Siu Bermudez",
@@ -85,7 +86,7 @@ document.addEventListener('DOMContentLoaded', function() {
             name: "Mujeres del Cua",
             img : "img/Mc.jpg",
             description: "Las mujeres del Cuá es un grupo de mujeres campesinas nicaragüenses que durante el período de la lucha insurreccional contra la dictadura de Anastasio Somoza Debayle, en los años 1960 y 1970 , dieron protección y cobijo, colaborando en acciones logísticas, a los guerrilleros del Frente Sandinista de Liberación Nacional, ocasionando que fueran reprimidas duramente sufriendo toda clases de vejaciones como torturas, violación y asesinatos en el cuartel de El Cuá de la Guardia Nacional CUA BOCAY del departamento de Jinotega. Las mujeres procedían de las comunidades El Carmen, Cuskawás, el Bijao y la Tronca; ninguna de ellas era oriunda del municipio de El Cuá.",
-            status: "MILITANTES : Mujeres del cua su legado continua : Amando Aguilar (Maria de la Cruz, fue cocinera del General Sandino), Natividad MArtinez (hija del Sindicalista Maximo Martinez ), Maria Venancia, Candida Maria Gonzalez , Candida Martinez , Martina Gonzalez entre otras .. compañeras"
+            status: "MILITANTES : Mujeres del cua su legado continua : Amando Aguilar (Maria de la Cruz, fue cocinera del General Sandino), Natividad MArtinez (hija del Sindicalista Maximo Martinez ), Maria Venancia, Candida Maria Gonzalez , Candida Martinez , Martina Gonzalez entre otras compañeras."
         },
         {
             id: 12,
