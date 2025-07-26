@@ -5,78 +5,87 @@ document.addEventListener('DOMContentLoaded', function() {
             id: 1,
             name: "Comandante Carlos Fonseca Amador",
             img : "img/cf.jpg",
-            description: "Nace el 23 de Junio del año 1936, fue un profesor, político, escritor y revolucionario nicaragüense, Fundador  del Frente Sandinista de Liberación Nacional (FSLN). fue asesinado el 8 de Noviembre  en combate en 1976.",
-            status: "Frace del comandante : El Revolucionario tiene espíritu contemple de acero, y no se amilana ante los fracasos que se produce en el trancurso de la lucha, y particularmente en la etapa inicial [...] Se vuelve urgentisimo que el movimiento revolucionario esté preparado para enfrentar a las celadas que inebitablemente llevarán a cabo los representantes de la clases capitalista que todavia influyen en ciertos sectores del pueblo "
+            description: "Nace el 23 de Junio del año 1936, fue un profesor, político, escritor .fue asesinado el 8 de Noviembre  en combate en 1976.",
+            status: "FUNDADOR DEL FSLN, paso a la inmortalidad el 8 de Noviembre de 1976",
+            Frace : "Enseñales a leer"
         },
         {
             id: 2,
             name: "Comandante Tomas Borge Martienez ",
-           img : "img/tm.jpg",
-            description: "Aunque su estado ha mejorado, el panda gigante sigue vulnerable con aproximadamente 1,800 ejemplares en libertad. La fragmentación de su hábitat es su mayor amenaza.",
-            status: "Vulnerable - Población en lenta recuperación"
+            img : "img/tm.jpg",
+            description: "Comandante : Tomás Borge Martínez nació en Matagalpa, el 13 de agosto de 1930. Su padre, Tomás Borge Delgado, fue lugarteniente de las tropas de Augusto César Sandino que lucharon contra la intervención de los Estados Unidos de América en Nicaragua desde 1926 hasta 1932.",
+            status: " FUNDADOR DEL FSLON : Paso a la Inmortalidad 30 de Abril del año 2012",
+            Frace: "!Implacable en el combate, Generosos en las Victoria!." 
         },
         {
             id: 3,
             name: "Comandante Silvio Mayorga ",
             img : "img/sm.jpg",
-            description: "Con menos de 1,000 ejemplares, el gorila de montaña enfrenta amenazas por la caza furtiva, enfermedades y la pérdida de hábitat debido a la actividad humana.",
-            status: "En peligro crítico - Población muy reducida"
+            description: "Silvio Mayorga Delgado nació en Nagarote, el 16 de abril de 1934.",
+            status: "FUNDADOR DEL FSLN : Pasa a la inmortalidad El 27 de agosto de 1967.",
+            Frace : "El mayor orgullo de un Nicaraguense es ser MILITANTE del FSLN"
         },
         {
             id: 4,
-            name: "Comandante German Pomares Ordoñez EL DANTO",
-           img : "img/Gp.jpg",
-            description: "La tortuga laúd es la más grande de todas las tortugas marinas y está en peligro crítico debido a la pesca incidental, la contaminación y el cambio climático.",
-            status: "En peligro crítico - Disminución del 90% en tres generaciones"
+            name: "Comandante German Pomares Ordoñez (EL DANTO)",
+            img : "img/Gp.jpg",
+            description: "Germán Pomares Ordóñez nació en El Viejo, el 17 de agosto de 1937.",
+            status: " FUNDADOR DEL FSLN, paso a la inmortalidad El 24 de mayo de 1979, herido de un comabate en el Cerro la Cruz ",
+            Frace: "Vamos a salir a darle los últimos golpes a la dictadura, yo les digo compas, que Nicaragua será libre antes de que terminen las lluvias"
+                   
+        
         },
         {
             id: 5,
             name: "Rigoberto Cruz ( Pablo Ubeda EL CADEJO) ",
             img : "img/Rc.jpg",
-            description: "Es uno de los mamíferos más raros del mundo con menos de 80 ejemplares. La caza furtiva por su cuerno es la principal causa de su situación crítica.",
-            status: "En peligro crítico - Al borde de la extinción"
+            description: "Nace el 5 de Enero de 1941 en la Libertad Chontales, el fue Maestro y revolucionario .",
+            status: "FUNDADOR DEL FSLN  paso a  la inmortalidad el 27 de Agosto de 1967 en una emboscada de la Guardia Genocida de Somoza ",
+            Frace: "Honor y Gloria a nuestros heroes"
+            
         },
         {
             id: 6,
             name: "Comandante Jorge Navarro",
             img :"img/Gr.jpg",
-            description: "Con menos de 14,000 ejemplares, el orangután de Sumatra pierde su hábitat debido a la deforestación para plantaciones de aceite de palma.",
-            status: "En peligro crítico - Pérdida de hábitat acelerada"
+            description: "Nació el 8 de julio de 1964, en San Juan, Puerto Rico.",
+            status: "FUNDADOR DEL FSLN paso a la inmortalidad el 27 de Octubre de 1963 es capturado por efectivos de la guardia nacional somocista y posteriormente asesinado junto a seis compañeros más ",
+            Fraces: "Fue alfabetizando en las areas urbanas , para luego despertar la cociencia de todos los/as nicaragua de tener una patria libre y soberana"
         },
         {
             id: 7,
             name: "Comandante Francisco Buitrago",
            img : "img/Fb.jpg",
-            description: "Habita en las montañas de Asia Central con menos de 6,500 ejemplares. La caza furtiva y el cambio climático amenazan su supervivencia.",
-            status: "Vulnerable - Población en descenso"
+            description: "Nace el 16 de Diciembre de 1936 Municipio de Terrabon, Departamento de Matagalpa, donde Nacio el Comandante Carlos Fonseca Amador.",
+            status: "FUNDADOR DEL FSLN,  el 27 de octubre de 1963, jornada guerrillera de Raití y Bocay, cayeron combatiendo contra la dictadura militar somocista, los militantes Modesto Duarte, Jorge Navarro, Mauricio Córdoba, Faustino Ruíz, Iván Sánchez y Francisco Buitrago"
         },
         {
             id: 8,
             name: "Comandante Camilo Ortega Saavedra",
-           img :"img/Co.jpg",
-            description: "Un 13 de diciembre de 1950 en la ciudad de Managua nace un ejemplar combatiente y estandarte de la unidad sandinista, el Comandante Camilo Antonio Ortega Saavedra conocido popularmente como “Mundo”. Proviene de una familia muy humilde, pero con grandes ideales revolucionarios. Sus padres Daniel Ortega y su madre Lidia Saavedra ambos le inculcaron a sus seis hijos a defender la igualdad social y el igualitarismo..",
-            status: "El 26 de Febrero 1978 , cae en combate en el lugar conocido como Las Sabogales, un pequeño poblado de Masaya,  la masacre de la Guardia somocista contra el pueblo nicaragüense. Pero un hombre valiente en medio del fuego de las ametralladoras, gritaba “¡Viva el Frente Sandinista!”. Era el grito de fuerza del Comandante Camilo Ortega Saavedra, quien junto a sus compañeros de lucha Moisés Rivera y Arnoldo Quant, se enfrentaba con escasas armas a las tropas de la infantería somocista EEBI y horas después caían heridos para luego ser torturados y asesinados en la mesa de los tormentos. El cuerpo del comandante Camilo quedó totalmente desfigurado debido a los crueles golpes por los verdugos de Somoza"
-        },
+            img :"img/Co.jpg",
+            description: "Nace : el 13 de diciembre de 1950 en la ciudad de Managua, un ejemplar combatiente y estandarte de la unidad sandinista, el Comandante Camilo Antonio Ortega Saavedra conocido popularmente como “Mundo”. Proviene de una familia muy humilde, pero con grandes ideales revolucionarios. Sus padres Daniel Ortega y su madre Lidia Saavedra ambos le inculcaron a sus seis hijos a defender la igualdad social y el igualitarismo.",
+            status: "FUNDADOR DEL FSLN , paso a la inmortalidad El 26 de Febrero 1978 , cae en combate en el lugar conocido como Las Sabogales, un pequeño poblado de Masaya.",
+            Frace: "!con gritos de valor decia !Viva el Frente Sandinista!"
+            },
         {
             id: 9,
             name: "Compañera Mildre Abaunza",
            img :"img/Ma.jpg",
-            description: "El 4 de Febrero de 1976, cayo en combate la compañera Mildred Abaunza en la Colonia Centroamerica ciudad de Managua. Mildred Abaunza Gutiérrez, militante del Frente Sandinista de Liberación Nacional y guerrillera urbana, era originaria de Bonanza, en el Triángulo Minero. Era una de las colaboradoras más firmes con la que contaba el comandante Tomás Borge .",
-            status: "En peligro crítico - Al borde de la extinción"
-        },
+            description: "Nace El 9 de Enero de 1951.  guerrillera urbana, era originaria de Bonanza, en el Triángulo Minero. ",
+            status: "MILITANTE GUERRILLERA : paso a la inmortalidad El 4 de Febrero de 1976, en la Colonia Centroamerica ciudad de Managua. },
         {
             id: 10,
             name: "Compañera Arlen Siu Bermudez",
            img : "img/As.jpg",
-            description: "El 15 de julio de 1955 nace Arlen Siu Bermúdez en en la ciudad de Jinotepe, Carazo, Nicaragua. Guerrillera jinotepina sandinista, fue una gran revolucionaria, una de las mártires más recordadas de la Revolución Sandinista. Tenía 18 años cuando se unió al FSLN. el 21 de MArzo 1975 Arlen Siu pasó a la clandestinidad  .",
-            status: "El 1° de agosto de 1975, la Guardia Nacional localizó cerca del poblado llamado El Sauce un campo de entrenamiento sandinista. Se libró un fuerte combate en el que Arlen Siu ayudó, hasta ser abatida junto con otros jóvenes combatientes, a cubrir la retirada de sus compañeros. Tenía en ese momento 20 años recién cumplidos. El lugar donde quedaron sus restos no se reveló a sus familiares ni sus compañeros hasta que, con el triunfo de la Revolución en 1979, fueron recuperados. Junto a ella cayeron los combatientes Mario Estrada, Gilberto Rostrán, Julia Herrera de Pomares, Mercedes Reyes, Hugo Arévalo, Juan y Leónidas Espinoza"
+            description: " Nace : El 15 de julio de 1955  en la ciudad de Jinotepe, Carazo, Nicaragua. Guerrillera jinotepina sandinista. Tenía 18 años cuando se unió al FSLN  el 21 de MArzo 1975 .",
+            status: "MILITANTE GUERRILLERA . paso a la inmortalidad El 1° de agosto de 1975, la Guardia Nacional localizó cerca del poblado llamado El Sauce un campo de entrenamiento sandinista."
         },
         {
             id: 11,
             name: "Mujeres del Cua",
             img : "img/Mc.jpg",
             description: "Las mujeres del Cuá es un grupo de mujeres campesinas nicaragüenses que durante el período de la lucha insurreccional contra la dictadura de Anastasio Somoza Debayle, en los años 1960 y 1970 , dieron protección y cobijo, colaborando en acciones logísticas, a los guerrilleros del Frente Sandinista de Liberación Nacional, ocasionando que fueran reprimidas duramente sufriendo toda clases de vejaciones como torturas, violación y asesinatos en el cuartel de El Cuá de la Guardia Nacional CUA BOCAY del departamento de Jinotega. Las mujeres procedían de las comunidades El Carmen, Cuskawás, el Bijao y la Tronca; ninguna de ellas era oriunda del municipio de El Cuá.",
-            status: "Mujeres del cua su legado continua : Amando Aguilar (Maria de la Cruz, fue cocinera del General Sandino), Natividad MArtinez (hija del Sindicalista Maximo Martinez ), Maria Venancia, Candida Maria Gonzalez , Candida Martinez , Martina Gonzalez entre otras .. compañeras"
+            status: "MILITANTES : Mujeres del cua su legado continua : Amando Aguilar (Maria de la Cruz, fue cocinera del General Sandino), Natividad MArtinez (hija del Sindicalista Maximo Martinez ), Maria Venancia, Candida Maria Gonzalez , Candida Martinez , Martina Gonzalez entre otras .. compañeras"
         },
         {
             id: 12,
